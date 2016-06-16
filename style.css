@@ -5,7 +5,7 @@ img  {
     float: left;
     margin: 0px 0 15px 100px;
 }
-.h1 {
+.p1 {
     float: left ;
     margin: 15px 0 5px 5px;
     font-size: 3.5em ;
@@ -13,7 +13,7 @@ img  {
     color : blue;
     font-variant: small-caps ;
 }
-.h2 {
+.p2 {
     float: left ;
     margin: 15px 0 5px 5px;
     font-size: 3.5em ;
@@ -23,7 +23,7 @@ img  {
 }
 .p3 {
     float: left ;
-    margin: 4px 0 15px 120px;
+    margin: 4px 0 15px 80px;
     font-size: 1.5em ;
     }
 button {
@@ -40,7 +40,7 @@ button {
 }
 .p5{
 	float: left ;
-    margin: 20px 0 15px 120px;
+    margin: 20px 0 15px 80px;
     font-size: 1.5em ;
 }
 .span {
